@@ -95,10 +95,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/skays-dev/skays-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="skays.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
